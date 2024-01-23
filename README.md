@@ -1,0 +1,2 @@
+# MiniBatchGradientDescent
+ Mini Gradyan İnişi
